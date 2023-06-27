@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Chandupatla Naga Pavan Kumar </h1>
+<h1 align="center">Hello 👋, I'm Pavan kumar Ch N </h1>
 <h3 align="center">Learning Full Stack Web developer at Masai School</h3>
 
 
