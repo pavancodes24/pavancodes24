@@ -134,8 +134,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="linkedin.com/in/ch-n-pavan-kumar-98a436154"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://linkedin.com/in/sachanarpit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ch-n-pavan-kumar-98a436154"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
 
 </p>
 <hr />
