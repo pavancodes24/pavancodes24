@@ -134,10 +134,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/sachanarpit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/sachanarpit1"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://codepen.io/sachanarpit"><img src="https://img.shields.io/badge/codepen-1d1e22?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://instagram.com/arpitsachanofficial"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="linkedin.com/in/ch-n-pavan-kumar-98a436154"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </p>
 <hr />
 
