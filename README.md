@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachanarpit](https://github.com/pavancodes24)
 
-- 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB and Wordpress.**
+- 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , and Mysql.**
 
 - 📫 How to reach me **pavanc1997@gmail.com**
 
