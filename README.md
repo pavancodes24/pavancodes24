@@ -2,7 +2,7 @@
 
 - 🌱 I’m a software developer who is spacialize in **Full Stack Web Development**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachanarpit](https://github.com/pavancodes24)
+- 👨‍💻 All of my projects are available at [https://github.com/pavancodes24](https://github.com/pavancodes24)
 
 - 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , and Mysql.**
 
