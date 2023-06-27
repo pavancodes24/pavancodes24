@@ -1,4 +1,4 @@
-- Hi I'm Pavan
+- Hi I'm Pavan kumar Ch N
 
 - 🌱 I’m a software developer who is spacialize in **Full Stack Web Development**.
 
