@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , and Mysql.**
 
-- 📫 How to reach me **pavanc1997@gmail.com**
+- 📫 How to reach me **pavanchandupatla24@gmail.com**
 
 <hr />
 
